@@ -1,6 +1,6 @@
 pkgname=wiki-loves-earth-wallpapers
 pkgver=2023
-pkgrel=1
+pkgrel=2
 pkgdesc="Use images from Wikipedia's 'Wiki Loves Earth' annual photographic competition on your desktop"
 url="https://wikilovesearth.org"
 arch=('any')
@@ -134,7 +134,7 @@ source=(
     'image-131678148.jpg::https://upload.wikimedia.org/wikipedia/commons/a/ac/Anjo_ca%C3%A7ador.jpg'
     'image-131788490.jpg::https://upload.wikimedia.org/wikipedia/commons/3/33/Abelharucos.jpg'
     'image-135318948.jpg::https://upload.wikimedia.org/wikipedia/commons/4/43/Black_kite_impersonating_an_osprey.jpg'
-    'image-132506367.jpg::https://upload.wikimedia.org/wikipedia/commons/4/40/Ninho_ao_Luar.jpg'
+    'image-132506367.jpg::https://upload.wikimedia.org/wikipedia/commons/a/a2/Parque_Natural_do_Sudoeste_Alentejano_e_Costa_Vicentina_por_Nuno_Lu%C3%ADs.jpg'
     'image-134381383.jpg::https://upload.wikimedia.org/wikipedia/commons/8/85/Lenzuola_di_seta.jpg'
     'image-132042982.jpg::https://upload.wikimedia.org/wikipedia/commons/1/14/%D0%A0%D0%B5%D0%BA%D0%B0_%D0%9A%D0%BE%D0%BA%D1%81%D1%83_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C%D1%8E_2.jpg'
     'image-134951259.jpg::https://upload.wikimedia.org/wikipedia/commons/f/f9/Stack_Rock_Fort_From_Above.jpg'
@@ -152,7 +152,7 @@ source=(
     'image-135290974.jpg::https://upload.wikimedia.org/wikipedia/commons/c/c4/Fog_Covered_Butwal.jpg'
 )
 sha1sums=(
-    '9d223fff8558bba56b6b20e564d8bbb5e0bd03b2'
+    '94c5c46ec51e669683642897589756324fdd0fef'
     '618a970c1e3d30ef51290b74caeceb4d3f0acd0d'
     '4e6f8c49653e307439a48db9bc5a29dfd91a5419'
     '1321ed421c246a67c221093e3137565989801d9d'
